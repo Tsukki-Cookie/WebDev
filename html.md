@@ -1,3 +1,4 @@
+tags 
 <div> tag is used for one division that is one width or one full line, if text is too long it will overflow to other lines
 
 <html></html> - tag to put all of your code inside the website 
@@ -25,3 +26,11 @@ target -  to open in a new tab
 
 <input placeholder="Username" type="text"></input> - give na input box , placeholder is the text inside the box and type is the input format 
 
+Attributes
+
+extra things you give to a tag which defines how that tag should behave
+
+<img src="a.png">
+<a href>
+<button onclick>
+<input id>
